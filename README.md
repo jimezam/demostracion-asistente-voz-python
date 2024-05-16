@@ -4,10 +4,16 @@
 
 ### Pasos previos
 
-Instalar los siguientes requerimientos del sistema operativo
+Instalar los siguientes requerimientos del sistema operativo Debian/Ubuntu.
 
 ```
-$ sudo apt install portaudio19-dev
+$ sudo apt install portaudio19-dev 
+```
+
+En caso de contarse con un Fedora Linux, instalar los siguientes.
+
+```
+$ sudo dnf install python3-cairo-devel gobject-introspection-devel cairo-gobject-devel portaudio-devel
 ```
 
 ### Instalar las librerías requeridas

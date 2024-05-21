@@ -7,7 +7,7 @@ playsound==1.2.2
 PyAudio==0.2.14
 pycairo==1.26.0
 PyGObject==3.48.2
-requests==2.31.0
+requests==2.32.0
 setuptools==69.5.1
 SpeechRecognition==3.10.4
 typing_extensions==4.11.0
